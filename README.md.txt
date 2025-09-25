@@ -7,4 +7,3 @@ Bu proje [Ders Adı] dersi için hazırlanmıştır.
 
 ## 🌐 Canlı Demo
 
-[Siteyi ziyaret etmek için tıklayın]
