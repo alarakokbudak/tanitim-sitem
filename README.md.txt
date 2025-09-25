@@ -7,4 +7,4 @@ Bu proje [Ders Adı] dersi için hazırlanmıştır.
 
 ## 🌐 Canlı Demo
 
-[Siteyi ziyaret etmek için tıklayın](https://rastgele-isim.netlify.app)
+[Siteyi ziyaret etmek için tıklayın]
