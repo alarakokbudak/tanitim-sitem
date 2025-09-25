@@ -28,10 +28,10 @@
             <div class="about-content">
                 <p>Merhaba! Ben Can Yılmaz, 22 yaşındayım. İstanbul'da yaşıyorum ve Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.</p>
                 
-                <h3>🎯 Hedeflerim</h3>
+                <h3> Hedeflerim</h3>
                 <p>Yapay zeka ve makine öğrenmesi alanında uzmanlaşmak istiyorum. İnsan hayatını kolaylaştıracak projeler geliştirmek benim en büyük motivasyon kaynağım.</p>
                 
-                <h3>💼 Deneyimlerim</h3>
+                <h3> Deneyimlerim</h3>
                 <ul>
                     <li>Frontend Developer Stajı - ABC Teknoloji (2024)</li>
                     <li>Web Tasarım Freelance Projeler</li>
