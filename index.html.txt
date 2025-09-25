@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Can Yılmaz | Kişisel Blog</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <a href="index.html">Can Yılmaz</a>
+            </div>
+            <div class="nav-menu">
+                <a href="index.html" class="nav-link">Ana Sayfa</a>
+                <a href="about.html" class="nav-link">Hakkımda</a>
+                <a href="projects.html" class="nav-link">Projelerim</a>
+                <a href="contact.html" class="nav-link">İletişim</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1 class="hero-title">Merhaba, Ben Can</h1>
+            <p class="hero-subtitle">Yazılım Geliştirici & Teknoloji Meraklısı</p>
+            <button class="cta-button" onclick="location.href='projects.html'">Projelerimi Keşfet</button>
+        </div>
+        <div class="hero-image">
+            <img src="images/profil.jpg" alt="Can Yılmaz Profil" class="profile-img">
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about-preview">
+        <div class="container">
+            <h2>Hakkımda</h2>
+            <div class="about-content">
+                <p>Bilgisayar Mühendisliği öğrencisiyim. Yapay zeka, web geliştirme ve mobil uygulamalar üzerine çalışıyorum. Hedefim insanlara faydalı teknolojiler geliştirmek.</p>
+                <div class="skills">
+                    <span class="skill-tag">HTML/CSS</span>
+                    <span class="skill-tag">JavaScript</span>
+                    <span class="skill-tag">Python</span>
+                    <span class="skill-tag">React</span>
+                    <span class="skill-tag">UI/UX Tasarım</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section class="projects-preview">
+        <div class="container">
+            <h2>Son Projelerim</h2>
+            <div class="project-grid">
+                <div class="project-card">
+                    <h3>🤖 AI Chat Uygulaması</h3>
+                    <p>Yapay zeka destekli sohbet uygulaması geliştirdim</p>
+                </div>
+                <div class="project-card">
+                    <h3>🌦️ Hava Durumu App</h3>
+                    <p>Gerçek zamanlı hava durumu uygulaması</p>
+                </div>
+                <div class="project-card">
+                    <h3>🛒 E-Ticaret Sitesi</h3>
+                    <p>Modern e-ticaret platformu</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Video Section -->
+    <section class="video-section">
+        <div class="container">
+            <h2>Tanıtım Videosu</h2>
+            <div class="video-container">
+                <video controls class="custom-video">
+                    <source src="videos/tanitim.mp4" type="video/mp4">
+                    Tarayıcınız video oynatmayı desteklemiyor.
+                </video>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Can Yılmaz - 2023123456</p>
+            <div class="social-links">
+                <a href="https://github.com" target="_blank">GitHub</a>
+                <a href="https://linkedin.com" target="_blank">LinkedIn</a>
+                <a href="https://instagram.com" target="_blank">Instagram</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

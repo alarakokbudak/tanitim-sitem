@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İletişim - Can Yılmaz</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <a href="index.html">Can Yılmaz</a>
+            </div>
+            <div class="nav-menu">
+                <a href="index.html" class="nav-link">Ana Sayfa</a>
+                <a href="about.html" class="nav-link">Hakkımda</a>
+                <a href="projects.html" class="nav-link">Projelerim</a>
+                <a href="contact.html" class="nav-link">İletişim</a>
+            </div>
+        </div>
+    </nav>
+
+    <section class="contact-section" style="margin-top: 100px; min-height: 80vh;">
+        <div class="container">
+            <h2>📞 İletişim</h2>
+            <p style="text-align: center; margin-bottom: 3rem; font-size: 1.2rem;">Benimle iletişime geçmek için aşağıdaki bilgileri kullanabilirsiniz</p>
+            
+            <div class="contact-container">
+                <!-- İletişim Bilgileri -->
+                <div class="contact-info">
+                    <h3>👨‍💻 İletişim Bilgilerim</h3>
+                    
+                    <div class="contact-item">
+                        <div class="contact-icon">📧</div>
+                        <div class="contact-details">
+                            <strong>E-posta</strong>
+                            <p>canyilmaz@email.com</p>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-item">
+                        <div class="contact-icon">📱</div>
+                        <div class="contact-details">
+                            <strong>Telefon</strong>
+                            <p>+90 555 123 45 67</p>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-item">
+                        <div class="contact-icon">📍</div>
+                        <div class="contact-details">
+                            <strong>Konum</strong>
+                            <p>İstanbul, Türkiye</p>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-item">
+                        <div class="contact-icon">💼</div>
+                        <div class="contact-details">
+                            <strong>LinkedIn</strong>
+                            <p>linkedin.com/in/canyilmaz</p>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-item">
+                        <div class="contact-icon">🐱</div>
+                        <div class="contact-details">
+                            <strong>GitHub</strong>
+                            <p>github.com/canyilmaz</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- İletişim Formu -->
+                <div class="contact-form">
+                    <h3>✉️ Mesaj Gönder</h3>
+                    <form id="contactForm">
+                        <div class="form-group">
+                            <label for="name">Adınız Soyadınız</label>
+                            <input type="text" id="name" name="name" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="email">E-posta Adresiniz</label>
+                            <input type="email" id="email" name="email" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="subject">Konu</label>
+                            <input type="text" id="subject" name="subject" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="message">Mesajınız</label>
+                            <textarea id="message" name="message" rows="5" required></textarea>
+                        </div>
+                        
+                        <button type="submit" class="submit-button">Mesajı Gönder</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Can Yılmaz - 2023123456</p>
+            <div class="social-links">
+                <a href="https://github.com" target="_blank">GitHub</a>
+                <a href="https://linkedin.com" target="_blank">LinkedIn</a>
+                <a href="https://instagram.com" target="_blank">Instagram</a>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Form gönderim script'i
+        document.getElementById('contactForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            alert('Mesajınız başarıyla gönderildi! En kısa sürede sizinle iletişime geçeceğim. 💕');
+            this.reset();
+        });
+    </script>
+</body>
+</html>

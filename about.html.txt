@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hakkımda - Can Yılmaz</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <a href="index.html">Can Yılmaz</a>
+            </div>
+            <div class="nav-menu">
+                <a href="index.html" class="nav-link">Ana Sayfa</a>
+                <a href="about.html" class="nav-link">Hakkımda</a>
+                <a href="projects.html" class="nav-link">Projelerim</a>
+                <a href="contact.html" class="nav-link">İletişim</a>
+            </div>
+        </div>
+    </nav>
+
+    <section class="about-preview" style="margin-top: 100px;">
+        <div class="container">
+            <h2>Ben Kimim?</h2>
+            <div class="about-content">
+                <p>Merhaba! Ben Can Yılmaz, 22 yaşındayım. İstanbul'da yaşıyorum ve Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.</p>
+                
+                <h3>🎯 Hedeflerim</h3>
+                <p>Yapay zeka ve makine öğrenmesi alanında uzmanlaşmak istiyorum. İnsan hayatını kolaylaştıracak projeler geliştirmek benim en büyük motivasyon kaynağım.</p>
+                
+                <h3>💼 Deneyimlerim</h3>
+                <ul>
+                    <li>Frontend Developer Stajı - ABC Teknoloji (2024)</li>
+                    <li>Web Tasarım Freelance Projeler</li>
+                    <li>Hackathon Katılımları</li>
+                </ul>
+                
+                <h3>🛠️ Becerilerim</h3>
+                <div class="skills">
+                    <span class="skill-tag">HTML5/CSS3</span>
+                    <span class="skill-tag">JavaScript</span>
+                    <span class="skill-tag">React</span>
+                    <span class="skill-tag">Python</span>
+                    <span class="skill-tag">UI/UX Tasarım</span>
+                    <span class="skill-tag">Git/GitHub</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Can Yılmaz - 2023123456</p>
+            <div class="social-links">
+                <a href="https://github.com" target="_blank">GitHub</a>
+                <a href="https://linkedin.com" target="_blank">LinkedIn</a>
+                <a href="https://instagram.com" target="_blank">Instagram</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
