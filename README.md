@@ -11,7 +11,6 @@ Bu proje Web Tasarımı dersi için hazırlanmış modern bir kişisel blog site
 - **E-posta:** alarakokbudak2@gmail.com
 
 
-#  Canlı Demo
  Siteyi ziyaret etmek için tıklayın: https://alarakokbudak.github.io/tanitim-sitem/
 
 
