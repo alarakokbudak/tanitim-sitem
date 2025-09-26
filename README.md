@@ -10,7 +10,7 @@ Bu proje Web Tasarımı dersi için hazırlanmış modern bir kişisel blog site
 - **Sınıf:** 3. Sınıf
 - **E-posta:** alarakokbudak2@gmail.com
 
-
+# Site
  Siteyi ziyaret etmek için tıklayın: https://alarakokbudak.github.io/tanitim-sitem/
 
 
