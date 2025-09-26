@@ -3,7 +3,6 @@
 Bu proje Web Tasarımı dersi için hazırlanmış modern bir kişisel blog sitesidir.
 
 #  Öğrenci Bilgileri
--
 - **Ad Soyad:** Alara Kökbudak
 - **Öğrenci No:** 2311012019
 - **Üniversite:** Süleyman Demirel Üniversitesi
