@@ -2,7 +2,7 @@
 
 Bu proje Web Tasarımı dersi için hazırlanmış modern bir kişisel blog sitesidir.
 
-## 👩‍💻 Öğrenci Bilgileri
+#  Öğrenci Bilgileri
 -
 - **Ad Soyad:** Alara Kökbudak
 - **Öğrenci No:** 2311012019
@@ -12,20 +12,15 @@ Bu proje Web Tasarımı dersi için hazırlanmış modern bir kişisel blog site
 - **E-posta:** alarakokbudak2@gmail.com
 
 
-## 🌐 Canlı Demo
-[👉 Siteyi ziyaret etmek için tıklayın] https://alarakokbudak.github.io/tanitim-sitem/
+#  Canlı Demo
+ Siteyi ziyaret etmek için tıklayın: https://alarakokbudak.github.io/tanitim-sitem/
 
-## 🛠️ Kullanılan Teknolojiler
-- HTML5
-- CSS3
-- Java
-- Font Awesome
-- Google Fonts
 
-## 📧 İletişim
+
+#  İletişim
 - Email: alarakokbudak2@gmail.com
 - LinkedIn: linkedin.com/in/alarakokbudak
-- GitHub: github.com/oberosn
+- GitHub: github.com/alarakokbudak
 
 
 # Alara Kökbudak - Kişisel Portfolio Websitesi
